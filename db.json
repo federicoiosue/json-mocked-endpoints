@@ -1,11 +1,14 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"fiosue": [{
+		"domains": {
+			"domain": "pincopallo.it",
+			"products": [{
+				"name": "email25ox1q5",
+				"authsmtp-limited": 20,
+				"pop3": 25,
+				"quota": "5Gb",
+				"webmail": "ox1"
+			}]
+		}
+	}]
 }
