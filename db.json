@@ -1,5 +1,6 @@
 {
-	"fiosue": [{
+	"domains": [{
+		"id": "fiosue",
 		"domains": {
 			"domain": "pincopallo.it",
 			"products": [{
