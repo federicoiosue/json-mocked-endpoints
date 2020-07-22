@@ -16,7 +16,7 @@
 	
 	"quota": [{
 		"id": "aaa@testbob.com",
-		"used": 524288
+		"used": 5242880
 	}]
 	
 }
