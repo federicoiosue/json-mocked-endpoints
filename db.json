@@ -1,15 +1,16 @@
 {
-	"event": [
-		{
-			"event": {
-				"data": {
-					"id": 1,
-					"incident": "Everything is on fire!!!",
-					"emailService": 42,
-					"end": "2025-04-01:14:30:00+01:00"
-				},
-				"type": "emailIncidentStarted"
-			}
-		}
-	]
+  "event": [
+    {
+      "type": "emailIncidentStarted",
+      "data": {
+        "id": "12345",
+        "incident": "Email service is down",
+        "emailServices": [
+          "service1",
+          "service2"
+        ],
+        "end": "2025-04-01T14:30:00+01:00"
+      }
+    }
+  ]
 }
