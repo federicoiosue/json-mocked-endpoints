@@ -1,22 +1,15 @@
 {
-	
-	"domains": [{
-		"id": "fiosue",
-		"domains": {
-			"domain": "pincopallo.it",
-			"products": [{
-				"name": "email25ox1q5",
-				"authsmtp-limited": 20,
-				"pop3": 25,
-				"quota": "5Gb",
-				"webmail": "ox1"
-			}]
+	"event": [
+		{
+			"event": {
+				"data": {
+					"id": 1,
+					"incident": "Everything is on fire!!!",
+					"emailService": 42,
+					"end": "2025-04-01:14:30:00+01:00"
+				},
+				"type": "emailIncidentStarted"
+			}
 		}
-	}],
-	
-	"quota": [{
-		"id": "aaa@testbob.com",
-		"used": 5242880
-	}]
-	
+	]
 }
